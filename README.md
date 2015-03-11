@@ -1,2 +1,2 @@
-# codes examples from my blog posts :
+#Codes examples from blog posts :
 http://v4lproik.net/blog
